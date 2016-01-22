@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="set.RemoveDuplicates"/>
+<fullyQualifiedTypeName name="set.ArraySet"/>
+<fullyQualifiedTypeName name="set.MaxSet"/>
+<fullyQualifiedTypeName name="solver.BruteSolver"/>
+<fullyQualifiedTypeName name="solver.OptimizedSolver"/>
+<fullyQualifiedTypeName name="solver.Solver"/>
+<fullyQualifiedTypeName name="java.awt.TextField"/>
+</qualifiedTypeNameHistroy>
